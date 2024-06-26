@@ -9,7 +9,8 @@ HTTP_HEADERS = {'Content-Type': 'application/json'}
 THINGSPEAK_WRITE_API_KEY = 'QHI4DS0XJABRZGZE'  
  
 ssid = 'CasA Brizio'
-password = 'Hassan123'
+password = "0ea8e6d0422f3120c58b5b7ad27700e165ae88f2c1b6e49764b0f22de36d8d19"
+
  
 # Configure Pico W as Station
 sta_if=network.WLAN(network.STA_IF)
